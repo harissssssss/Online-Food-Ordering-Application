@@ -1,0 +1,364 @@
+[
+    {
+    "_id":{
+        "$oid":
+        "604c68e7c0cced2d1fbd2f50"
+    },
+    "name":"Daal Makhni",
+    "image":"daalMakhni.png",
+    "price":"200",
+    "size":"large"
+},{
+    "_id":{
+        "$oid":
+        "604c68e7c0cced2d1fbd2f51"
+    },
+    "name":"Chilli Paneer",
+    "image":"ChilliPaneer.png",
+    "price":"250",
+    "size":"large"
+},{
+    "_id":{
+        "$oid":
+        "604c68e7c0cced2d1fbd2f52"
+    },
+    "name":"Paneer Stick",
+    "image":"PannerStick.png",
+    "price":"180",
+    "size":"large"
+},{
+    "_id":{
+        "$oid":
+        "604c68e7c0cced2d1fbd2f53"
+    },
+    "name":"Paneer Kalimirch",
+    "image":"PaneerKalimirch.png",
+    "price":"230",
+    "size":"large"
+},{
+    "_id":{
+        "$oid":
+        "604c68e7c0cced2d1fbd2f54"
+    },
+    "name":"Paneer Tikka Masala",
+    "image":"PaneerTikkaMasala.png",
+    "price":"299",
+    "size":"large"
+},{
+    "_id":{
+        "$oid":
+        "604c68e7c0cced2d1fbd2f55"
+    },
+    "name":"Kathiya Roll",
+    "image":"KathiyaRoll.png",
+    "price":"150",
+    "size":"large"
+},{
+    "_id":{
+        "$oid":
+        "604c68e7c0cced2d1fbd2f56"
+    },
+    "name":"Mexican Roll",
+    "image":"MexicanRoll.png",
+    "price":"180",
+    "size":"large"
+},{
+    "_id":{
+        "$oid":
+        "604c68e7c0cced2d1fbd2f57"
+    },
+    "name":"Paneer Pakoda",
+    "image":"PaneerPakoda.png",
+    "price":"200",
+    "size":"large"
+},{
+    "_id":{
+        "$oid":
+        "604c68e7c0cced2d1fbd2f58"
+    },
+    "name":"Mushroom Chilli",
+    "image":"MushroomChilly.png",
+    "price":"299",
+    "size":"large"
+},{
+    "_id":{
+        "$oid":
+        "604c68e7c0cced2d1fbd2f59"
+    },
+    "name":"Crunchy Veg",
+    "image":"CrunchyVeg.png",
+    "price":"140",
+    "size":"large"
+},{
+    "_id":{
+        "$oid":
+        "604c68e7c0cced2d1fbd2f60"
+    },
+    "name":"Veg Cutlet",
+    "image":"VegCutlet.png",
+    "price":"120",
+    "size":"large"
+},{
+    "_id":{
+        "$oid":
+        "604c68e7c0cced2d1fbd2f61"
+    },
+    "name":"Butter Roti",
+    "image":"ButterRoti.png",
+    "price":"20",
+    "size":"large"
+},{
+    "_id":{
+        "$oid":
+        "604c68e7c0cced2d1fbd2f62"
+    },
+    "name":"Bajre Ki Roti",
+    "image":"BajreKiRoti.png",
+    "price":"25",
+    "size":"large"
+},{
+    "_id":{
+        "$oid":
+        "604c68e7c0cced2d1fbd2f63"
+    },
+    "name":"Tandoori Roti",
+    "image":"tandooririoti.png",
+    "price":"20",
+    "size":"large"
+},{
+    "_id":{
+        "$oid":
+        "604c68e7c0cced2d1fbd2f64"
+    },
+    "name":"Dal Tadka",
+    "image":"DalTadka.png",
+    "price":"150",
+    "size":"large"
+},{
+    "_id":{
+        "$oid":
+        "604c68e7c0cced2d1fbd2f65"
+    },
+    "name":"Mix Veg",
+    "image":"mix-veg.png",
+    "price":"160",
+    "size":"large"
+},{
+    "_id":{
+        "$oid":
+        "604c68e7c0cced2d1fbd2f66"
+    },
+    "name":"Bombay Aloo",
+    "image":"BombayAloo.png",
+    "price":"180",
+    "size":"large"
+},{
+    "_id":{
+        "$oid":
+        "604c68e7c0cced2d1fbd2f67"
+    },
+    "name":"Chana Masala",
+    "image":"Chana-Masala.png",
+    "price":"180",
+    "size":"large"
+},{
+    "_id":{
+        "$oid":
+        "604c68e7c0cced2d1fbd2f68"
+    },
+    "name":"Muttar Paneer",
+    "image":"mutterPaneer.png",
+    "price":"299",
+    "size":"large"
+},{
+    "_id":{
+        "$oid":
+        "604c68e7c0cced2d1fbd2f69"
+    },
+    "name":" Gajar Ka Halwa",
+    "image":"Gajar.png",
+    "price":"150",
+    "size":"large"
+},{
+    "_id":{
+        "$oid":
+        "604c68e7c0cced2d1fbd2f70"
+    },
+    "name":"Malai Kofta",
+    "image":"malaikofta.png",
+    "price":"200",
+    "size":"large"
+},{
+    "_id":{
+        "$oid":
+        "604c68e7c0cced2d1fbd2f71"
+    },
+    "name":"Gulab Jamun",
+    "image":"gulabjamun.png",
+    "price":"120",
+    "size":"large"
+},{
+    "_id":{
+        "$oid":
+        "604c68e7c0cced2d1fbd2f72"
+    },
+    "name":"Palak Paneer",
+    "image":"palakpaneer.png",
+    "price":"250",
+    "size":"large"
+},{
+    "_id":{
+        "$oid":
+        "604c68e7c0cced2d1fbd2f73"
+    },
+    "name":"Methi Matar Malai",
+    "image":"mmm.png",
+    "price":"299",
+    "size":"large"
+},{
+    "_id":{
+        "$oid":
+        "604c68e7c0cced2d1fbd2f74"
+    },
+    "name":"Vegetable Biryani",
+    "image":"vegbiryani.png",
+    "price":"180",
+    "size":"large"
+},{
+    "_id":{
+        "$oid":
+        "604c68e7c0cced2d1fbd2f75"
+    },
+    "name":"Rice",
+    "image":"rice.png",
+    "price":"100",
+    "size":"large"
+},{
+    "_id":{
+        "$oid":
+        "604c68e7c0cced2d1fbd2f76"
+    },
+    "name":"Pulao Rice",
+    "image":"pulao.png",
+    "price":"150",
+    "size":"large"
+},{
+    "_id":{
+        "$oid":
+        "604c68e7c0cced2d1fbd2f77"
+    },
+    "name":"Jeera Rice",
+    "image":"jeerarice.png",
+    "price":"120",
+    "size":"large"
+},{
+    "_id":{
+        "$oid":
+        "604c68e7c0cced2d1fbd2f78"
+    },
+    "name":"Onion Salad",
+    "image":"onionsalad.png",
+    "price":"30",
+    "size":"large"
+},{
+    "_id":{
+        "$oid":
+        "604c68e7c0cced2d1fbd2f79"
+    },
+    "name":"Mint Sauce",
+    "image":"mint.png",
+    "price":"80",
+    "size":"large"
+},{
+    "_id":{
+        "$oid":
+        "604c68e7c0cced2d1fbd2f80"
+    },
+    "name":"Mixed Hot Pickles",
+    "image":"daalmakhni.png",
+    "price":"50",
+    "size":"large"
+},{
+    "_id":{
+        "$oid":
+        "604c68e7c0cced2d1fbd2f81"
+    },
+    "name":"Raita",
+    "image":"raita.png",
+    "price":"80",
+    "size":"large"
+},{
+    "_id":{
+        "$oid":
+        "604c68e7c0cced2d1fbd2f82"
+    },
+    "name":"Paratha",
+    "image":"paratha.png",
+    "price":"20",
+    "size":"large"
+},{
+    "_id":{
+        "$oid":
+        "604c68e7c0cced2d1fbd2f83"
+    },
+    "name":"Aloo Paratha",
+    "image":"alooParatha.png",
+    "price":"40",
+    "size":"large"
+},{
+    "_id":{
+        "$oid":
+        "604c68e7c0cced2d1fbd2f84"
+    },
+    "name":"Cheese Paratha",
+    "image":"cheese.png",
+    "price":"30",
+    "size":"large"
+},{
+    "_id":{
+        "$oid":
+        "604c68e7c0cced2d1fbd2f85"
+    },
+    "name":"Naan",
+    "image":"naan.png",
+    "price":"25",
+    "size":"large"
+},{
+    "_id":{
+        "$oid":
+        "604c68e7c0cced2d1fbd2f86"
+    },
+    "name":"Paneer Stuffed Naan",
+    "image":"PaneerStuff.png",
+    "price":"40",
+    "size":"large"
+},{
+    "_id":{
+        "$oid":
+        "604c68e7c0cced2d1fbd2f87"
+    },
+    "name":"Garlic Naan",
+    "image":"garlicnaan.png",
+    "price":"30",
+    "size":"large"
+},{
+    "_id":{
+        "$oid":
+        "604c68e7c0cced2d1fbd2f88"
+    },
+    "name":"Peshwari Naan",
+    "image":"peshnaan.png",
+    "price":"25",
+    "size":"large"
+},{
+    "_id":{
+        "$oid":
+        "604c68e7c0cced2d1fbd2f89"
+    },
+    "name":"Allo Tikka Chat",
+    "image":"aloochaat.png",
+    "price":"120",
+    "size":"large"
+}
+
+]
