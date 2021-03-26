@@ -27,17 +27,6 @@ connection.once('open',()=>{
     console.log('connection failed');
 });
 
-//session store
-// let mongoStore = new MongoDbStore({
-//                 mongooseConnection: connection,
-//                 databaseName:'food',
-//                 collection:'sessions'
-                
-//             });
-
-
-
-
 //Session config
 app.use(session({
     secret:process.env.COOKIE_SECRET,  //  secret: 'thisismysecret',

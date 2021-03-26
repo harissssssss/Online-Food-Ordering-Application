@@ -8,10 +8,10 @@ function orderController() {
         index(req, res) {
            order.find({ status: { $ne: 'completed' } }, null, { sort: { 'createdAt': -1 }}).populate('customerId', '-password').exec((err, orders) => {
                if(req.xhr) {
-                   console.log(orders)
+                   //console.log(orders)
                    return res.json(orders)
                } else {
-                console.log(orders)
+                //console.log(orders)
                 return res.render('admin/orders')
                }
            })
