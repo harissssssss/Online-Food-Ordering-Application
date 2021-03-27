@@ -16,8 +16,8 @@ const passport=require('passport')
 
 
 //Databse connection
-const url='mongodb://localhost/food';
-mongoose.connect(url,{ useNewUrlParser:true, useCreateIndex:true,useUnifiedTopology:true,
+//const url='mongodb://localhost/food';
+mongoose.connect(process.env.MONGO_CONNECTION_URL,{ useNewUrlParser:true, useCreateIndex:true,useUnifiedTopology:true,
 useFindAndModify:true});
 const connection=mongoose.connection;
 connection.once('open',()=>{
@@ -65,6 +65,9 @@ app.set('view engine','ejs');
 
 
 require('./routes/web.js')(app);
+app.use((req,res)=> {
+    res.status(404).render('./errors/404');
+})
 
 
 app.listen(PORT,()=> {
